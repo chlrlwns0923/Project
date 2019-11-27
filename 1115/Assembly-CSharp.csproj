@@ -56,7 +56,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\AnnouncementScript.cs" />
-     <Compile Include="Assets\Scripts\PlantInfo.cs" />
+     <Compile Include="Assets\Scripts\Plant.cs" />
      <Compile Include="Assets\Scripts\User.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/DT_project_git/Project/1115/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
